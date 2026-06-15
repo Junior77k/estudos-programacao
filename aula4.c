@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main() {
-
+// teste sincronizacao
     int x;
     double y, resultado;
     x = 20;
